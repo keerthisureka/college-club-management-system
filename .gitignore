@@ -1,12 +1,2 @@
 # Environment files
 .env
-
-# Database files
-cems.sql
-
-# Composer dependencies
-/vendor/
-composer.lock
-
-/libs/
-/razorpay-php/
